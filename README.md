@@ -1,16 +1,18 @@
-### Hi there 👋
+### Меня зовут Владислава, я начинающий QA Engineer👋
+📕**Мои навыки:**
 
-<!--
-**vladislavazakharova/vladislavazakharova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://img.shields.io/badge/POSTMAN-black?style=for-the-badge&logo=POSTMAN&logoColor=orange"/> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow"/> <img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira Software&logoColor=blue"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=orange"/> <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=blue"/> <img src="https://img.shields.io/badge/Charles-black?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
-Here are some ideas to get you started:
+👨‍💻 **Конференции:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+OnlineTestConf, 2022. Было особенно интересно услышать доклад Гитте Оттосен, которая рассказывала про роль менеджера по тестированию в современных реалиях. Я планирую реализовать себя и в управлени, и в обучении качеству, поэтому доклад был важен для меня.
+
+YaTallks 2022. В контексте разработки тестовых данных и документации с помощью ИИ, было интересно услышать доклады про машинное обучение и нейронные сети.
+
+DUMP 2023, Екатеринбург. Планирую посетить конференцию в апреле, чтобы заслушать интересные доклады в сфере QA, а также узнать больше про смежные сферы.
+
+⚡**Интересный факт:** 
+
+Я мастер спорта по лыжным гонкам и обожаю читать исследования про строение и работу мозга.
+
+
