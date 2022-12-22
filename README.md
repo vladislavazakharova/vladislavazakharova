@@ -1,5 +1,5 @@
 ### Меня зовут Владислава, я начинающий QA Engineer👋
-📕**Мои навыки:**
+:large_blue_diamond:**Мои навыки:**
 
 <img src="https://img.shields.io/badge/POSTMAN-black?style=for-the-badge&logo=POSTMAN&logoColor=orange"/> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow"/> <img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira Software&logoColor=blue"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=orange"/> <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=blue"/> <img src="https://img.shields.io/badge/Charles-black?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
 
