@@ -1,7 +1,8 @@
-### Меня зовут Владислава, я начинающий QA Engineer.
-:large_orange_diamond:**Мои навыки:**
+### Меня зовут Владислава, я развиваюсь в сфере Quality Assurance .
+🎓**Мои навыки:**
 
 <img src="https://img.shields.io/badge/POSTMAN-black?style=for-the-badge&logo=POSTMAN&logoColor=orange"/> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow"/> <img src="https://img.shields.io/badge/Android Studio-black?style=for-the-badge&logo=Android Studio&logoColor=blue"/> <img src="https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=Jira Software&logoColor=blue"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=orange"/> <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=blue"/> <img src="https://img.shields.io/badge/Charles-black?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/>
+
 
 👨‍💻 **Конференции:**
 
@@ -16,3 +17,7 @@
 Я мастер спорта по лыжным гонкам и обожаю читать исследования про строение и работу мозга.
 
 
+✉️ **Контакты**
+
+<a href="https://t.me/vlada_zakharova">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white"/>
