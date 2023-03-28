@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет!+Меня+зовут+Владислава.;+Я+инженер+по+тестированию+ПО.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Привет!+Меня+зовут+Владислава.)](https://git.io/typing-svg)
 
 🎓**Мои навыки:**
 
